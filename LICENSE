@@ -1,0 +1,93 @@
+GROWCTRL Source-Available License (GC-SAL) v1.0
+Copyright (c) 2026 MrDarkvoid
+Entwickelt in Zusammenarbeit mit Claude (Anthropic), Vibe Coding.
+Developed in collaboration with Claude (Anthropic), Vibe Coding.
+
+================================================================================
+DEUTSCH (rechtlich massgeblich / legally authoritative)
+================================================================================
+
+1. GESTATTET ist jedermann unentgeltlich:
+   a) das Ansehen und Studieren des Quellcodes,
+   b) die Installation und private, NICHT-kommerzielle Nutzung
+      (z.B. im eigenen Home-Assistant-System),
+   c) das Melden von Fehlern und das Einreichen von Verbesserungsvorschlaegen
+      (Pull Requests) an das Original-Repository.
+
+2. NAMENSNENNUNG: Jede gestattete Nutzung muss den Urheber "MrDarkvoid"
+   nennen und - sofern technisch sinnvoll - auf das Original-Repository
+   verlinken. Vorhandene Urheber- und Lizenzvermerke duerfen nicht
+   entfernt oder veraendert werden.
+
+3. NICHT GESTATTET ohne vorherige schriftliche Zustimmung des Urhebers:
+   a) jede KOMMERZIELLE Nutzung, gleich welcher Art (Verkauf, Vermietung,
+      bezahlte Dienstleistungen, Bundling in kommerzielle Produkte,
+      Monetarisierung ueber Werbung oder Abonnements),
+   b) das WEITERVERBREITEN des Werks oder abgewandelter Fassungen
+      ausserhalb der Plattform-Funktionen von GitHub (z.B. Re-Hosting,
+      eigene Releases, Forks, die als eigenstaendige Projekte gefuehrt
+      oder beworben werden),
+   c) das Veroeffentlichen MODIFIZIERTER Versionen.
+
+4. PLATTFORM-HINWEIS: Liegt dieses Repository oeffentlich auf GitHub,
+   raeumen die GitHub Terms of Service anderen Nutzern das Recht ein,
+   das Repository INNERHALB der Plattform anzusehen und zu forken.
+   Dieses Plattform-Recht bleibt unberuehrt; Abschnitt 3 gilt fuer jede
+   Nutzung, Verbreitung und Veroeffentlichung DARUEBER HINAUS.
+
+5. GEWAEHRLEISTUNG: DAS WERK WIRD OHNE JEDE GEWAEHR BEREITGESTELLT
+   ("AS IS"). DER URHEBER HAFTET NICHT FUER SCHAEDEN AUS DER NUTZUNG,
+   INSBESONDERE NICHT FUER ERNTEAUSFAELLE, GERAETE- ODER WASSERSCHAEDEN.
+
+6. Verstoesse gegen diese Lizenz beenden alle eingeraeumten Rechte
+   automatisch.
+
+================================================================================
+ENGLISH (full translation - informative; the German text above governs)
+================================================================================
+
+This is a source-available license. The source code is published so that it can
+be read, studied and used privately, but it is NOT open source in the OSI sense:
+commercial use, redistribution and the publication of modified versions are
+reserved to the author.
+
+1. PERMITTED, free of charge, to everyone:
+   a) viewing and studying the source code;
+   b) installing and using the software privately and for NON-COMMERCIAL
+      purposes (e.g. in your own Home Assistant system);
+   c) reporting bugs and submitting improvement suggestions (pull requests)
+      to the original repository.
+
+2. ATTRIBUTION: Any permitted use must credit the author "MrDarkvoid" and,
+   where technically reasonable, link back to the original repository.
+   Existing copyright and license notices must not be removed or altered.
+
+3. NOT PERMITTED without the author's prior written consent:
+   a) any COMMERCIAL use of any kind (sale, rental, paid services,
+      bundling into commercial products, monetisation through advertising
+      or subscriptions);
+   b) REDISTRIBUTING the work or modified versions of it outside GitHub's
+      built-in platform features (e.g. re-hosting, publishing your own
+      releases, or maintaining/advertising forks as independent projects);
+   c) PUBLISHING MODIFIED versions.
+
+4. PLATFORM NOTICE: While this repository is public on GitHub, the GitHub
+   Terms of Service grant other users the right to view and fork the
+   repository WITHIN the platform. That platform right remains untouched;
+   Section 3 applies to any use, distribution or publication BEYOND it.
+
+5. WARRANTY: THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+   THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF
+   THE WORK, IN PARTICULAR NOT FOR CROP LOSS, EQUIPMENT DAMAGE OR WATER
+   DAMAGE. GROWCTRL CONTROLS PUMPS, LIGHTS AND HEATING; THE OPERATOR IS
+   SOLELY RESPONSIBLE FOR SAFE INSTALLATION, ELECTRICAL SAFETY AND
+   SUPERVISION.
+
+6. TERMINATION: Any breach of this license automatically terminates all
+   rights granted herein.
+
+7. PERMISSIONS: Requests for commercial use, redistribution or publication
+   of modified versions can be directed to the author via the original
+   GitHub repository (issue or profile contact).

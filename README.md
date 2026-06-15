@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/growctrl_logo.png" alt="GROWCTRL Logo" width="160">
+<img src="assets/logo/logo.png" alt="GROWCTRL Logo" width="180">
 
 # 🌱 GROWCTRL ESP
 
